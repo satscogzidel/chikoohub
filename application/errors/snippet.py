@@ -1,0 +1,1 @@
+// for detail view tags display by venki
