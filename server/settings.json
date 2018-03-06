@@ -1,7 +1,7 @@
 {
 	"production":{
-    "database_url" : "mongodb://admin:admin123@ds237967.mlab.com:37967/heroku_k719h00b",
-    "database_name" : "heroku_k719h00b",
+    "database_url" : "mongodb://admin:admin123@ds157528.mlab.com:57528/cogzidel",
+    "database_name" : "cogzidel",
     "wp_client_id" : "56629",
     "wp_client_secret" : "KE3hoCcMFAelCkLJkrOlINzf5rOgezHa9vjKtqPm33OLOtdtTYD9IKBYCR99qEWm",
     "wp_redirect_url" : "http://sapphirecamera.herokuapp.com/wp_auth",
