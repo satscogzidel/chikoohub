@@ -1,0 +1,94 @@
+
+.demo-card-wide.mdl-card.mdl-shadow--2dp {
+
+    width: 30%;
+    height: 16em !important;
+    padding: 0;
+    margin-top: 1em;
+    border-radius: 0.8em;
+    box-shadow: 1em 1em 1em rgba(0,0,0,.10);
+    display: inline-block;
+    left: 12em;
+    top: 3em;
+    
+}
+.demo-card-wide.mdl-card.mdl-shadow--2dp:hover {
+ -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1.1);
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1.1);   
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1.1);
+    transition: all 200ms ease-in;
+    transform: scale(1.1);
+    cursor: pointer;
+    
+}
+
+.demo-card-wide.mdl-card.mdl-shadow--2dp.linker {
+    width: 18%;
+    padding: 3em 0 0 3em;
+    background: none;
+    box-shadow: none;
+    transform: none;
+    cursor: default;
+   
+}
+body{
+	background-color: #fcd21e;
+}
+.mdl-card__title {
+   margin: 0 auto;
+   width: 12em;
+}
+.main.mdl-cell.mdl-cell--12-col.header {
+    height: 100px;
+}
+.switch {
+    float: right;
+    padding: 15px;
+}
+
+.demo-card-wide.mdl-card.mdl-shadow--2dp.wordpress {
+    background-color: #fff;
+}
+.demo-card-wide.mdl-card.mdl-shadow--2dp.instagram {
+
+    background: #fff
+
+    ;
+}
+
+i.fa.fa-instagram {
+    font-size: 125px;
+    padding-top: 10px;
+    margin: 0 auto;
+    
+}
+i.fa.fa-wordpress {
+    font-size: 125px;
+    color: white;
+    padding-top: 10px;
+    margin: 0 auto;
+   
+}
+h2.mdl-card__title-text {
+    font-family: 'Montserrat,Helvetica,Arial,Lucida,sans-serif';
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1.3em;
+}
+
+.txt {
+    text-align: center;
+    margin: 0 auto;
+    float: none;
+    width: 80%;
+}
+img {
+    width: 10em;
+}
+a{
+	text-decoration: none;
+}

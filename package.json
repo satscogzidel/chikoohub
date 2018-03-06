@@ -1,0 +1,26 @@
+{
+  "name": "hidden-viper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "env=production node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deva@cogzidel.com@hidden-viper",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "instagram-node": "^0.5.8",
+    "material-design-lite": "^1.3.0",
+    "mongodb": "^3.0.1",
+    "mustache": "^2.3.0",
+    "node-cron": "^1.2.1",
+    "query-string": "^5.0.1",
+    "request": "^2.83.0",
+    "unix-time": "^1.0.1",
+    "wpcom": "^5.4.0"
+  }
+}
